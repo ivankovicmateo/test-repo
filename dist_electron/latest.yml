@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: Electron-Vue-Setup-1.0.0.exe
+    sha512: 33GcUQJct9yPTZIDBF705hRdsEmuLtfGPcoIJ4EXzVlng7ECChgj0NEZMkDh83jQkSHTABtGk4zydFPLRz7Nqw==
+    size: 69945463
+path: Electron-Vue-Setup-1.0.0.exe
+sha512: 33GcUQJct9yPTZIDBF705hRdsEmuLtfGPcoIJ4EXzVlng7ECChgj0NEZMkDh83jQkSHTABtGk4zydFPLRz7Nqw==
+releaseDate: '2025-02-27T06:47:17.373Z'

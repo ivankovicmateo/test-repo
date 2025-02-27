@@ -43,7 +43,7 @@
   },
   "build": {
     "appId": "com.official-electron-vue.app",
-    "productName": "Electron Vue Nightly",
+    "productName": "Electron Vue",
     "copyright": "Copyright © 2022 ${author}",
     "publish": [
       {

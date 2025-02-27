@@ -1,0 +1,4 @@
+owner: Bible-Projects
+repo: test-repo
+provider: github
+updaterCacheDirName: electron-vue-updater
