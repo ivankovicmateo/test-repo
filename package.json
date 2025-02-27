@@ -43,8 +43,8 @@
   },
   "repository": "https://github.com/ivankovicmateo/test-repo.git",
   "build": {
-    "appId": "test-repo",
-    "productName": "Electron Vue Nightly",
+    "appId": "com.official-electron-vue.app",
+    "productName": "Electron Vue",
     "copyright": "",
     "publish": [
       {

@@ -19,7 +19,7 @@
   },
   "repository": "https://github.com/ivankovicmateo/test-repo.git",
   "build": {
-    "appId": "com.official-electron-vue.app",
+    "appId": "test-repo",
     "productName": "Electron Vue",
     "publish": [
       {

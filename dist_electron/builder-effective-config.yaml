@@ -1,0 +1,21 @@
+directories:
+  output: dist_electron
+  buildResources: assets
+appId: com.official-electron-vue.app
+productName: Electron Vue
+copyright: ''
+publish:
+  - provider: github
+    owner: Bible-Projects
+    repo: test-repo
+nsis:
+  oneClick: true
+  allowToChangeInstallationDirectory: false
+  deleteAppDataOnUninstall: true
+files:
+  - filter:
+      - dist/**/*
+extraResources:
+  - filter:
+      - defaults/**/*
+electronVersion: 22.0.0
